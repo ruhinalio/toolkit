@@ -1,0 +1,12 @@
+@import "../../App.scss";
+
+.footer{
+    a{
+        color:  $clr-black;
+    }
+    .copyright-text{
+        color: $clr-black;
+        display: block;
+        margin-top: 0.7rem;
+    }
+}
